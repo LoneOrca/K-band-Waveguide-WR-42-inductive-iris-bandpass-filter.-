@@ -1,0 +1,13 @@
+$begin 'CacheDataVersion'
+	DataVersion=5
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	a='10.668mm'
+	b='4.318mm'
+	tw='1.016mm'
+	dp='(1/2)*a'
+	L='53.8995mm'
+	aw='a+2*tw'
+	bw='b+2*tw'
+	t='1mm'
+$end 'VariableValues'
